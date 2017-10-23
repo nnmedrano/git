@@ -58,6 +58,8 @@ namespace proyecto1
             {
                 Console.WriteLine("Color:" + item);
             }
+
+            console.WriteLine("Gracias por jugar");
             
         }
     }
